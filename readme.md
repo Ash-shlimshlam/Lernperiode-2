@@ -13,7 +13,10 @@ Eine Quizprogramm erstellen
 - [ ] AP 1
 - [ ] M431 1727 erledigen
 - [ ] Ich möchte weiter bei M431 arbeiten und möglichst viele Auftragen erledigen
+      
 ✍️ Heute habe ich gesehen, wo ich bei programmieren stehe und habe eine Zahl raten Spiel ohne Hilfe programmiert. Ich konnte das ziemlich schnell erledigen. Ich habe, dann habe ich mich um den Modul 431 gekümmert und den Aufgabe 1727 erledigt. Ich bin mit dem nicht so ganz fertig geworden. (50-100 Wörter)
+
+Hausaufgabe: Ich habe an den Auftrag eine "Presenation erstellen" gearbeitet.
 
 ## 23.10.2026
 - [ ] Ich möchte meine Grobplanung weiter entwickeln und mich entscheiden was im diese Quiz kommt
