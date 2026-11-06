@@ -1,23 +1,41 @@
-﻿using System.ComponentModel.Design;
+﻿using System;
+using System.IO;
+using System.Windows.Forms;
 
-Random number = new Random();
-int die = number.Next(1, 101);
-Console.WriteLine("Guess a number from 1 to 100");
-int guess;
-do
+
+using System;
+using System.IO;
+using System.Windows.Forms;
+using Xceed.Words.NET;
+
+class Program
 {
-    guess = Convert.ToInt32(Console.ReadLine());
-    if (guess == die)
-     {Console.WriteLine("You Won!"); }
-      else
+    [STAThread]
+    static void Main()
     {
-        if (guess < die)
-        { Console.WriteLine("answer is higher"); }
-        else
+        OpenFileDialog dialog = new OpenFileDialog();
+
+        dialog.Title = "Select a Word Document";
+        dialog.Filter = "Word Documents (*.docx)|*.docx";
+
+        if (dialog.ShowDialog() == DialogResult.OK)
         {
-            
-             Console.WriteLine("answer is lower"); 
-           
+            string filePath = dialog.FileName;
+
+            Console.WriteLine("Word document imported!");
+            Console.WriteLine("File: " + filePath);
+
+          
+            using (DocX document = DocX.Load(filePath))
+            {
+                string text = document.Text;
+
+                Console.WriteLine("\n--- Document Content ---\n");
+                Console.WriteLine(text);
+              
+            }
         }
+      
+        Console.ReadKey();
     }
-} while (guess != die);
+}
