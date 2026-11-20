@@ -47,10 +47,22 @@ Ich habe zuerst eine HTML code auf C# geschrieben die, diese Website öffnet. Da
 Hausaufgabe: Ich habe zwei weitere Array erstellt, je mit Links zu den zugehörigen Tabs. Auf diese Arrays habe ich links von "Notion" gefügt. Jetzt wenn man auf diese Tab öffnet, öffnete es die Link zu den Charakter. 
 
 ## 20.11.2026
- - [ ] Ich möchte mehr Charakteren hinfügen
+ - [ x] Ich möchte mehr Charakteren hinfügen
 
- - [ ] Ich möchte die Links verbessern
+ - [x ] Ich möchte die Tabs weiterentwickeln
 
  - [ ] Ich möchte an die Gestalten arbeiten
 
- - [ ] Ich möchte 
+Ich habe zuerst ein wenig für eine Informatik Presentation geübt, da es am Mittwoch ist.
+Ich habe dann Den Buttons so weiterarbeitet, dass wenn man den Button clicks es, anstatt eine neue Page öffnet mit dem Notion-Page, es eine neue Tab öffnet mit einem Notion-Site, die man nicht verarbeiten kann. Das hat mich viel Zeit genommen, da ich nie meine erwünschte Resultat erreichte bis ich eine eine Java-Script Funktion hingefügt habe. 
+Wenn das alles funktionierte, habe ich eine weitere Button hingefügte, am Anfang hatte es nicht funktionierte. Bis ich merkte, dass ich unnötige Abstände bei den Buttons Code hatte und dies verbessert.
+Zuletzt habe ich ein extra Charakter hingefügt, das gab mir keine Probleme. 
+
+## 27.11.2026
+- [ ] Ich möchte mehr Charakteren hinfügen und sehen wie ich die Gestalten verbessern soll (z.B ob es zu voll ausssieht oder zu 'langweilig')
+
+- [ ] Ich möchte an meine Notion-Page arbeiten und sehen was meine Limitationen sind mit den Website (z.B Bilder)
+
+- [ ] Ich möchte sehen, ob ich links in dem Notion-Page hinfügen kann, die etwas anderes öffnet
+
+- [ ] Ich möchte mit dem Gestalten expierementieren und sehen was ich 1.machen kann und 2.machen möchte
