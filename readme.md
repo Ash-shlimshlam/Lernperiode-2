@@ -38,3 +38,19 @@ ich habe mich informiert, wie ich meine Programm weiter verarbeiten kann
 - [ ] Ich möchte die Name des Variabeln verbessern und andere Vorlagen verbessern, sodass es mehr lesbar ist.
 
 Ich habe versucht, das, worüber ich mich informiert habe, zu verwenden, um ein Programm zu programmieren, das das Word-Dokument lesen und ausgeben kann, was das Word-Dokument sagt. Mithilfe meiner Bruders, habe ich es geschaft. Ich habe schwierigkeiten mit den Eingabe und habe nicht mitdem weit gekommen.
+
+## 13.11.2026: 
+Ich mache gerade eine Pause von meinem ursprünglichen Projekt und arbeite an einem neuen Projekt, bei dem man eine „Website“ öffnen kann, die ein paar Charaktere auflistet, mit Registerkarten unter jedem, auf die man klicken kann, um mehr Informationen über den jeweiligen Charakter zu bekommen.
+
+Ich habe zuerst eine HTML code auf C# geschrieben die, diese Website öffnet. Dann habe ich eine Liste mit Namen mit einem Array gemacht und jeweiligen Tabs für jedes Charakter hingefügt. 
+
+Hausaufgabe: Ich habe zwei weitere Array erstellt, je mit Links zu den zugehörigen Tabs. Auf diese Arrays habe ich links von "Notion" gefügt. Jetzt wenn man auf diese Tab öffnet, öffnete es die Link zu den Charakter. 
+
+## 20.11.2026
+ - [ ] Ich möchte mehr Charakteren hinfügen
+
+ - [ ] Ich möchte die Links verbessern
+
+ - [ ] Ich möchte an die Gestalten arbeiten
+
+ - [ ] Ich möchte 
