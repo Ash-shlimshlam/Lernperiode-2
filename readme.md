@@ -47,9 +47,9 @@ Ich habe zuerst eine HTML code auf C# geschrieben die, diese Website öffnet. Da
 Hausaufgabe: Ich habe zwei weitere Array erstellt, je mit Links zu den zugehörigen Tabs. Auf diese Arrays habe ich links von "Notion" gefügt. Jetzt wenn man auf diese Tab öffnet, öffnete es die Link zu den Charakter. 
 
 ## 20.11.2026
- - [ x] Ich möchte mehr Charakteren hinfügen
+ - [x] Ich möchte mehr Charakteren hinfügen
 
- - [x ] Ich möchte die Tabs weiterentwickeln
+ - [x] Ich möchte die Tabs weiterentwickeln
 
  - [ ] Ich möchte an die Gestalten arbeiten
 
@@ -59,10 +59,19 @@ Wenn das alles funktionierte, habe ich eine weitere Button hingefügte, am Anfan
 Zuletzt habe ich ein extra Charakter hingefügt, das gab mir keine Probleme. 
 
 ## 27.11.2026
-- [ ] Ich möchte mehr Charakteren hinfügen und sehen wie ich die Gestalten verbessern soll (z.B ob es zu voll ausssieht oder zu 'langweilig')
+- [x] Ich möchte mehr Charakteren hinfügen und sehen wie ich die Gestalten verbessern soll (z.B ob es zu voll ausssieht oder zu 'langweilig')
 
 - [ ] Ich möchte an meine Notion-Page arbeiten und sehen was meine Limitationen sind mit den Website (z.B Bilder)
 
-- [ ] Ich möchte sehen, ob ich links in dem Notion-Page hinfügen kann, die etwas anderes öffnet
+- [x] Ich möchte sehen, ob ich links in dem Notion-Page hinfügen kann, die etwas anderes öffnet
 
 - [ ] Ich möchte mit dem Gestalten expierementieren und sehen was ich 1.machen kann und 2.machen möchte
+
+Heute habe ich zuerst alle meine Charakteren hingefügt. Dann habe ich mich entschieden für eine Farbe Kombination für meine  Projekt welches passend wäre. Ich habe mich informiert, wie ich die Gestalten verbessern kann und habe zuerst dies mit den Hintergrund geschrieben und dan denn Farbe gewählt. 
+
+## 4.12.2026
+ - [ ] Ich möchte an den Gestalten des Titels arbeiten mit Bezug der Farbwahl(mit Hex code).
+
+ - [ ] Ich möchte die Sub-Titeln verbessern mit Farbe und Aussehen (Text format)
+
+ - [ ] Ich möchte den Aussehens des Buttons verbessern (Farbe, Platzierung)
